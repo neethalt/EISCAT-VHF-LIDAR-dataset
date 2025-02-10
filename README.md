@@ -1,4 +1,4 @@
-Introduction The data files used in this study include the fitted spectral and plasma parameters obtained from EISCAT-VHF measurements, the LIDAR neutral temperature measurements, and the SIC model results of ion compositions and MSIS neutral densities. The descriptions of the files are given below in the captions for dataset. 
+The data files used in this study include the fitted spectral and plasma parameters obtained from EISCAT-VHF measurements, the LIDAR neutral temperature measurements, and the SIC model results of ion compositions and MSIS neutral densities. The descriptions of the files are given below.
 
 Data Set1. This data file contains the fitted EISCAT-VHF spectral parameters along with LIDAR neutral temperature measurements used. This dataset is used in the generation of Figure 1. 
 
