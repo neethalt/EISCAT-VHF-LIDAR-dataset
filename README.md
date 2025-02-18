@@ -8,4 +8,4 @@ Data Set3. This data file contains the fitted ion-neutral collision frequency ob
 
 Data Set4. This data file contains the fitted neutral temperature measurements obtained from EISCAT-VHF data with and without applying the correction factor to model ion-neutral collision frequency. LIDAR neutral temperature measurements are also included for comparison. This dataset is used in the generation of Figure 4. 
 
-Figure 5 is generated using the data in the files Data Set S1 and S2 and is, therefore, not included separately.
+Figure 5 is generated using the data in the files Data Set DS1 and DS2 and is, therefore, not included separately.
